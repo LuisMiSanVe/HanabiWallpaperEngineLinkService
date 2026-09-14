@@ -1,119 +1,27 @@
-> Languages: [🇺🇸 English](https://github.com/LuisMiSanVe/template-repos/blob/main/README.md) | [🇪🇸 Spanish](https://github.com/LuisMiSanVe/template-repos/blob/main/README.es.md) | [🇯🇵 Japanese](https://github.com/LuisMiSanVe/template-repos/blob/main/README.jp.md)
-# 😀 Repository's Title
-[![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
-[![dotNet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)
-[![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.newtonsoft.com/json)
-[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
-[![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://aistudio.google.com/app/apikey)
-[![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://jwt.io/introduction)
-[![NetBeams](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)](https://netbeans.apache.org/front/main/index.html)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/es/index.html)
-[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)](https://httpd.apache.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+> Languages: [🇺🇸 English](https://github.com/LuisMiSanVe/HanabiWallpaperEngineLinkService/blob/main/README.md) | [🇪🇸 Spanish](https://github.com/LuisMiSanVe/HanabiWallpaperEngineLinkService/blob/main/README.es.md) | [🇯🇵 Japanese](https://github.com/LuisMiSanVe/HanabiWallpaperEngineLinkService/blob/main/README.jp.md)
+# 🔗 Hanabi-Wallpaper Engine Link Service
 [![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://console.firebase.google.com/)
-[![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/studio)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![FFmpeg](https://img.shields.io/badge/FFMPEG-%233e9242.svg?style=for-the-badge&logo=FFmpeg&logoColor=ffffff)](https://www.ffmpeg.org/)
-[![NuGet](https://img.shields.io/badge/NuGet-%23004880.svg?style=for-the-badge&logo=nuget&logoColor=white)](https://www.nuget.org/)
-[![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/es-es/apps/aspnet/web-apps/blazor)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-miguel-s%C3%A1nchez-967024326/)
-[![StackExchange](https://img.shields.io/badge/StackExchange-1E5397?&style=for-the-badge&logo=StackExchange&logoColor=white)](https://stackexchange.com/users/25822412/luis-miguel-sánchez?tab=accounts)
-[![LinkTree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/luismiguelsanchez)
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/LuisMiSanVe)
-[![itchIO](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://kommagames.itch.io/)
-[![Marketplace](https://img.shields.io/badge/VS_Marketplace-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://marketplace.visualstudio.com/publishers/luismisanvekomma)
-[![Gists](https://img.shields.io/badge/gists-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/LuisMiSanVe)
-[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-%23000040.svg?style=for-the-badge&logo=Hugging%20Face&logoColor=ffdf00)](https://huggingface.co/Komma-LuisMiSanVe)
-[![YouTube](https://img.shields.io/badge/YouTube-%23ff0000.svg?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/@KommaGames)
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=blue)](https://steamcommunity.com/id/kommavideogames/)
-[![Google](https://img.shields.io/badge/Google%20Devs-%23ffffff.svg?style=for-the-badge&logo=Google&logoColor=4285f4)](https://g.dev/luismisanve)
-[![AutoHotKey](https://img.shields.io/badge/AutoHotKey-%23448e3a.svg?style=for-the-badge&logo=AutoHotkey&logoColor=ffffff)](https://www.autohotkey.com/)
-[![kotlin](https://img.shields.io/badge/Kotlin-%238061dc.svg?style=for-the-badge&logo=Kotlin&logoColor=ffffff)](https://kotlinlang.org/)
-[![Godot](https://img.shields.io/badge/Godot-%2343aafe.svg?style=for-the-badge&logo=Godot%20Engine&logoColor=ffffff)](https://godotengine.org/es/)
-[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=Vercel&logoColor=ffffff)](https://vercel.com/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23ff8040.svg?style=for-the-badge&logo=JavaScript&logoColor=ffffff)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![Wine](https://img.shields.io/badge/Wine-%23d70000.svg?style=for-the-badge&logo=Wine&logoColor=ffffff)](https://www.winehq.org/)
-[![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://www.nvidia.com/drivers/)
-[![Unreal Engine](https://img.shields.io/badge/unreal_engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
-[![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
-[![Google Play](https://img.shields.io/badge/Google%20Play%20Store-%23ffffff.svg?style=for-the-badge&logo=Google%20Play&logoColor=3aaa58)](https://play.google.com/store/apps/dev?id=8302426077898344904&pli=1)
-[![Debian](https://img.shields.io/badge/Debian-%23d70a3f.svg?style=for-the-badge&logo=Debian&logoColor=ffffff)](https://www.debian.org/)
 [![Arch](https://img.shields.io/badge/Arch-%231793d1.svg?style=for-the-badge&logo=Arch%20Linux&logoColor=ffffff)](https://archlinux.org/)
 [![Gnome](https://img.shields.io/badge/Gnome-%23ffffff.svg?style=for-the-badge&logo=GNOME&logoColor=000000)](https://www.gnome.org/)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=blue)](https://steamcommunity.com/id/kommavideogames/)
 
->[!NOTE]
-> NOTE
-
-> [!WARNING]
-> WARNING
-
-> [!IMPORTANT]
-> WARNING
-
-> [!TIP]
-> WARNING
-
-> [!CAUTION]
-> WARNING
-
-> ANNOTATION
-
-BRIEF DESCRIPTION
-
-<img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/image.png" width="50" alt="Image Alt">
-
-```
-CODE
-```
+A background service script that scans your Wallpaper Engine's Steam Workshop suscribed items and links them to the folder Live wallpaper Hanabi GNOME extension uses.
 
 ## 📝 Technology Explanation
-Explanation
+The service scans each `30` seconds (by default) the Wallpaper Engine's Workshop folder and creates symlinks to the new wallpapers on the desired folder.\
+By default, it uses `home/.local/share/Steam/steamapps/workshop/content/431960` as the Workshop route, if you currently use a different folder, [change it](https://github.com/LuisMiSanVe/HanabiWallpaperEngineLinkService/blob/main/link_wallpaper.sh#L6).
+
+The script is built in the case you use secuential live wallpapers on Hanabi, rather than a static wallpaper, for that reason **it will only link wallpapers in video formats** such as `.mp4`, `.webm`, `.mkv`, `.mov` and `.avi`.\
+If you are also suscribed to static image wallpapers and want to add them too to Hanabi, you can add the filter on this [line](https://github.com/LuisMiSanVe/HanabiWallpaperEngineLinkService/blob/main/link_wallpaper.sh#L50), but be aware the script may also detect the Workshop's item cover image.\
+The destination folder is `home/Wallpapers/WallpaperEngine` by default, if you use another folder [change it](https://github.com/LuisMiSanVe/HanabiWallpaperEngineLinkService/blob/main/link_wallpaper.sh#L8), if you are willing to use this folder instead, go to the Hanabi extension settings and select `home/Wallpapers/WallpaperEngine` as the Hanabi folder for secuential wallpapers.
 
 ## 📋 Prerequisites
-Prerequisites
-
-## 🛠️ Setup
-Setup
-
-## ⚙️ Project Usage Explanation
-Usage
-
-## 📖 About the Project
-About
-
-## 📂 Files
-Files
-
-## 🎨 Customization Options
-Options
-
-## 🚀 Releases
-The version will be released using these versioning policies:\
-New major features and critical bug fixes will cause the immediate release of a new version, while other minor changes or fixes will wait one week since the time the change is introduced in the repository before being included in the new version, so that other potential changes can be added.
->[!NOTE]
->These potencial new changes will not increase the wait time for the new version beyond one week.
-
-The version number will follow this format: \
-\[Major Feature\].\[Minor Feature\].\[Bug Fixes\]
+You must own [Wallpaper Engine](https://www.wallpaperengine.io/) on [Steam](https://store.steampowered.com/) and at least be suscribed to one video format Workshop wallpaper and have installed the [Hanabi GNOME extension](https://github.com/jeffshee/gnome-ext-hanabi).
 
 ## 💻 Technologies Used
-- Programming Language: [C#](https://dotnet.microsoft.com/en-us/languages/csharp) [Java](https://www.java.com/) [PHP](https://www.php.net/) [Python](https://www.python.org/)
-- Tested OS: [Ubuntu](https://ubuntu.com/)
-- Framework: [ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet) (Project built with [.Net](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet) Framework)
-- Template: Empty Views Activity
-- Android API:
-- Libraries:
-- NuGet Packages:
+- Programming Language: Bash Script
+- Tested OS: [Manjaro GNOME](https://manjaro.org/)
 - Other:
-- Recommended IDE: [Visual Studio](https://visualstudio.microsoft.com/) [NetBeans](https://netbeans.apache.org/front/main/index.html) [VS Code](https://code.visualstudio.com/) [Gedit](https://help.gnome.org/users/gedit/stable/gedit-quickstart.html.en) [Android Studio](https://developer.android.com/studio)
+  - [Wallpaper Engine](https://www.wallpaperengine.io/)
+  - [Hanabi GNOME extension](https://github.com/jeffshee/gnome-ext-hanabi)
+- Recommended IDE: [VS Code](https://code.visualstudio.com/)
